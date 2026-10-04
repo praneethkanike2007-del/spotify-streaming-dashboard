@@ -1,3 +1,4 @@
+
 # Spotify Artist Streaming Performance Analysis — Interactive Machine Learning Dashboard
 
 A Streamlit + Plotly web dashboard for the Google Colab project
@@ -133,3 +134,6 @@ Then open http://localhost:8501.
    professional musicians. *Scientific Reports*.
 2. Kaggle dataset: *Most Streamed Artists on Spotify*.
 3. scikit-learn and XGBoost documentation.
+
+# spotify-streaming-dashboard
+ 6e468072370a2224fd9aed5ad3604ed360280e2c
