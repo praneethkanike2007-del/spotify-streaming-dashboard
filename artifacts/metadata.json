@@ -1,0 +1,25 @@
+{
+  "stream_threshold": 18020.05,
+  "features": [
+    "Sex",
+    "Country of Origin",
+    "Primary Language",
+    "Primary Genre",
+    "Artist Type",
+    "Debut Year"
+  ],
+  "categorical_features": [
+    "Sex",
+    "Country of Origin",
+    "Primary Language",
+    "Primary Genre",
+    "Artist Type"
+  ],
+  "numerical_features": [
+    "Debut Year"
+  ],
+  "sklearn_version": "1.6.1",
+  "xgboost_version": "2.1.4",
+  "pandas_version": "3.0.6",
+  "source": "export_artifacts.py (notebook code re-run locally)"
+}

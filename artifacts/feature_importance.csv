@@ -1,0 +1,79 @@
+Feature,Importance
+categorical__Artist Type_Solo,0.058526587
+categorical__Country of Origin_Mexico,0.058332734
+categorical__Primary Genre_Regional Mexican,0.050005965
+categorical__Country of Origin_Colombia,0.04814992
+categorical__Country of Origin_United States,0.04586755
+categorical__Country of Origin_Brazil,0.045640852
+numerical__Debut Year,0.04231186
+categorical__Artist Type_Group,0.0421109
+categorical__Primary Genre_R&B,0.042105585
+categorical__Primary Language_English,0.040613256
+categorical__Primary Genre_Pop,0.037237085
+categorical__Primary Language_Portuguese,0.037169725
+categorical__Primary Genre_Rock,0.036420956
+categorical__Primary Genre_EDM,0.03635546
+categorical__Sex_Mixed,0.035303213
+categorical__Country of Origin_Canada,0.034156054
+categorical__Sex_Female,0.033034693
+categorical__Primary Genre_Alternative,0.032212842
+categorical__Primary Genre_Reggaeton,0.031423204
+categorical__Primary Language_Hindi,0.030310526
+categorical__Primary Genre_Country,0.028995097
+categorical__Primary Genre_Latin,0.028753338
+categorical__Sex_Male,0.028548889
+categorical__Primary Genre_Hip-Hop,0.026198704
+categorical__Country of Origin_United Kingdom,0.025259858
+categorical__Primary Language_Spanish,0.024920978
+categorical__Country of Origin_India,0.020034118
+categorical__Country of Origin_Argentina,0.0
+categorical__Country of Origin_Australia,0.0
+categorical__Country of Origin_Barbados,0.0
+categorical__Country of Origin_Dominican Republic,0.0
+categorical__Country of Origin_Denmark,0.0
+categorical__Country of Origin_Cuba,0.0
+categorical__Country of Origin_Chile,0.0
+categorical__Country of Origin_Belgium,0.0
+categorical__Country of Origin_Pakistan,0.0
+categorical__Country of Origin_Guatemala,0.0
+categorical__Country of Origin_France,0.0
+categorical__Country of Origin_Jamaica,0.0
+categorical__Country of Origin_Japan,0.0
+categorical__Country of Origin_Morocco,0.0
+categorical__Country of Origin_Nepal,0.0
+categorical__Country of Origin_Iceland,0.0
+categorical__Country of Origin_Ireland,0.0
+categorical__Country of Origin_Italy,0.0
+categorical__Country of Origin_Germany,0.0
+categorical__Primary Language_German,0.0
+categorical__Primary Language_French,0.0
+categorical__Country of Origin_Trinidad and Tobago,0.0
+categorical__Country of Origin_Venezuela,0.0
+categorical__Country of Origin_South Africa,0.0
+categorical__Country of Origin_South Korea,0.0
+categorical__Country of Origin_Spain,0.0
+categorical__Country of Origin_Sweden,0.0
+categorical__Country of Origin_Senegal,0.0
+categorical__Country of Origin_Scotland,0.0
+categorical__Country of Origin_Russia,0.0
+categorical__Country of Origin_Philippines,0.0
+categorical__Country of Origin_Netherlands,0.0
+categorical__Country of Origin_Nigeria,0.0
+categorical__Country of Origin_Norway,0.0
+categorical__Primary Language_Korean,0.0
+categorical__Primary Genre_Folk,0.0
+categorical__Primary Genre_Filmi,0.0
+categorical__Primary Genre_Bachata,0.0
+categorical__Primary Genre_Children's Music,0.0
+categorical__Primary Language_Punjabi,0.0
+categorical__Primary Language_Tamil,0.0
+categorical__Primary Language_Urdu,0.0
+categorical__Primary Genre_Afrobeats,0.0
+categorical__Primary Language_Italian,0.0
+categorical__Primary Genre_Reggae,0.0
+categorical__Primary Genre_K-Pop,0.0
+categorical__Primary Genre_Metal,0.0
+categorical__Primary Genre_Soundtrack,0.0
+categorical__Primary Genre_Soul,0.0
+categorical__Primary Genre_Sertanjeo,0.0
+categorical__Primary Genre_Spoken Word,0.0
